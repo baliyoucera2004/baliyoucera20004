@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="im.png" alt="Banner" width="100%">
+  <img src="im.jpg" alt="Banner" width="100%">
 </p>
 # Hi, I'm Youcera 👋
 
