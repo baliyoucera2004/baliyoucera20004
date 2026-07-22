@@ -2,7 +2,6 @@
   <img src="im.jpg" alt="Banner" width="100%">
 </p>
 # Hi, I'm Youcera 👋
-
 Master's graduate in Mathematics (Differential Geometry)
 
 Interested in:
